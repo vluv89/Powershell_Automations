@@ -28,8 +28,8 @@ Modules extend PowerShell’s functionality by adding **cmdlets, functions, and 
 - **Microsoft Exchange Server**  
 - **Office 365 (Microsoft 365)**  
 - **SQL Server**  
-- **SharePoint Server**  
-- **Internet Information Services (IIS)**  
+- **SharePoint Online**  
+
 
 To view all available modules on your system, run:  
 ```powershell
