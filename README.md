@@ -51,3 +51,5 @@ If you haven’t worked with PowerShell before, here are some essential commands
 Get-Help — Provides information about cmdlets
 Get-Command — Lists available commands
 Get-Member — Shows the properties and methods of objects
+
+You can visit this link to learn more about powershell - [Powershell 101](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.5)
