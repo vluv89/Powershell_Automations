@@ -17,9 +17,9 @@ Requires administrative privileges
 Provides colored output for better readability
 Shows disk space information after cleanup
 
-To use this script: 
+To use this script: Cleanup.ps1
 
-Save it as a .ps1 file (e.g., PC_Cleanup.ps1)
+Download it as a .ps1 file (e.g., Cleanup.ps1)
 Right-click and select "Run with PowerShell as administrator"
 Allow it to complete all operations
 Consider restarting your computer afterward for best results
