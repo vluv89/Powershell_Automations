@@ -38,6 +38,8 @@ Designed for IT Support, sysadmins, and advanced users to quickly resolve common
 
 ## ▶️ How to Use It
 
+➡️[Download the script](./Scripts/wu-repair-gui.ps1)
+
 Open PowerShell as Administrator
 Allow script execution (temporary) & Run the script
 
