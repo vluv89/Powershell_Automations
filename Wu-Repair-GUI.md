@@ -41,16 +41,31 @@ Designed for IT Support, sysadmins, and advanced users to quickly resolve common
 Open PowerShell as Administrator
 Allow script execution (temporary):
 
-<img width="1128" height="127" alt="image" src="https://github.com/user-attachments/assets/d263de7d-1b8c-46b5-8836-a4efc00f56e6" />
+<img width="600" height="100" alt="image" src="https://github.com/user-attachments/assets/d263de7d-1b8c-46b5-8836-a4efc00f56e6" />
 
-
+## Set-ExecutionPolicy RemoteSigned -Scope Process
 
 Run the script:
 
-<img width="1103" height="115" alt="image" src="https://github.com/user-attachments/assets/c3a228d2-5a76-492c-abbe-bafc8e70d905" />
-
+<img width="600" height="100" alt="image" src="https://github.com/user-attachments/assets/c3a228d2-5a76-492c-abbe-bafc8e70d905" />
 
 
 Click "Run Repair" in the application
 
-<img width="881" height="594" alt="image" src="https://github.com/user-attachments/assets/fae52bd1-e243-4612-8ff9-adb158d943a6" />
+
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/fae52bd1-e243-4612-8ff9-adb158d943a6" />
+
+
+---
+
+## 🧑‍💻 Use Cases
+
+- Windows Update stuck downloading/installing
+- Error codes during update
+- Corrupted update cache
+- Post-patch system instability
+- General Windows servicing issues
+
+
+---
+
