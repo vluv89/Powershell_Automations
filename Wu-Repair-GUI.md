@@ -39,21 +39,17 @@ Designed for IT Support, sysadmins, and advanced users to quickly resolve common
 ## ▶️ How to Use It
 
 Open PowerShell as Administrator
-Allow script execution (temporary):
+Allow script execution (temporary) & Run the script
 
-<img width="600" height="100" alt="image" src="https://github.com/user-attachments/assets/d263de7d-1b8c-46b5-8836-a4efc00f56e6" />
+``` powershell
+Set-ExecutionPolicy RemoteSigned -Scope Process
 
-## Set-ExecutionPolicy RemoteSigned -Scope Process
+Set-ExecutionPolicy RemoteSigned -Scope Process
+.\WU-Repair-GUI.ps1
 
-Run the script:
-
-<img width="600" height="100" alt="image" src="https://github.com/user-attachments/assets/c3a228d2-5a76-492c-abbe-bafc8e70d905" />
-
+```
 
 Click "Run Repair" in the application
-
-
-<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/fae52bd1-e243-4612-8ff9-adb158d943a6" />
 
 
 ---
