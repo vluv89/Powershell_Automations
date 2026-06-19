@@ -36,7 +36,7 @@ Designed for IT Support, sysadmins, and advanced users to quickly resolve common
 
 ---
 
-## ▶️ How to Use it
+## ▶️ How to Use It
 
 Open PowerShell as Administrator
 Allow script execution (temporary):
@@ -46,7 +46,11 @@ Allow script execution (temporary):
 
 
 Run the script:
-PowerShell.\WU-Repair-GUI.ps1Show more lines
+
+<img width="1103" height="115" alt="image" src="https://github.com/user-attachments/assets/c3a228d2-5a76-492c-abbe-bafc8e70d905" />
+
 
 
 Click "Run Repair" in the application
+
+<img width="881" height="594" alt="image" src="https://github.com/user-attachments/assets/fae52bd1-e243-4612-8ff9-adb158d943a6" />
